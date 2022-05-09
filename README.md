@@ -11,12 +11,12 @@
 <br>
 
 모델 1 출력결과  
-![titanic_code](/readme_image/titanic_code.png)  
+![titanic_model1](/readme_image/titanic_model1.png)  
 
 <br>
 
 모델 2 출력결과
-![titanic_code](/readme_image/titanic_code.png)  
+![titanic_model2](/readme_image/titanic_model2.png)  
 
 <br>
 <br>
