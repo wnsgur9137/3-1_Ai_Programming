@@ -58,3 +58,18 @@ model이 마지막으로 저장 되는 부분
 
 test 결과 accuracy
 ![wine_accuracy](/readme_image/wine_accuracy.png)  
+
+<br>
+<br>
+
+## 주택 가격 예측  
+
+code1  
+![house_code1](/readme_image/house_code1.png)  
+
+<br>
+
+code2  
+![house_code2](/readme_image/house_code2.png)  
+
+<br>
